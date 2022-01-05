@@ -5,3 +5,5 @@
 
 #### Stack: HTML5, CSS3, BEM.
 Адаптивная верстка под размеры экранов 1280px, 1024px, 768px, 320px
+
+[Ссылка на проект](https://pawnchow.github.io/russian-travel/)
