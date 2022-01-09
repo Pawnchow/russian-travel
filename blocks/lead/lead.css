@@ -1,6 +1,9 @@
 .lead {
     max-width: 984px;
     margin: 0 auto 92px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 @media (max-width: 1279px) {
@@ -19,6 +22,5 @@
 @media screen and (max-width: 767px) {
     .lead {
       margin-bottom: 64px;
-      max-width: 100%;
     }
 }
